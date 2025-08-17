@@ -1,14 +1,11 @@
 <h1>Я сосиска</h1>
 
+<h2>Я пишу на:</h2>
 <details>
-
-<summary><h3>Я пишу на</h3></summary>
-
-<h2>Python
-
-</h2>
+<summary>Python</summary>
 
 </details>
+
 
 <h3>Из программирования я знаю только то, что лучше не писать на JS</h3>
 
